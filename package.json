@@ -513,7 +513,7 @@
     "gulp": "^3.9.1",
     "open": "0.0.5",
     "opener": "^1.4.1",
-    "parse-git-config": "^0.3.1",
+    "parse-git-config": "^0.4.3",
     "path": "^0.12.7",
     "readable-stream": "^2.1.4",
     "request-promise-native": "^1.0.4",
