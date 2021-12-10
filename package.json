@@ -506,7 +506,7 @@
     "yargs": "^5.0.0"
   },
   "dependencies": {
-    "applicationinsights": "0.15.16",
+    "applicationinsights": "0.22.0",
     "event-stream": "^3.3.2",
     "fs": "0.0.2",
     "git-repo-info": "^1.1.2",
